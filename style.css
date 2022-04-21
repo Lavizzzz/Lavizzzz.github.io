@@ -1,0 +1,26 @@
+.head-banner{
+    background-color: #66b95f;
+    padding-bottom: 8rem;
+    padding-top: 8rem;
+    background-image: url('https://i.pinimg.com/originals/34/47/67/344767dc4143958384e8c92a459f2be5.png');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+}
+
+.icon-section{
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+.bi{
+    width: 60px;
+    height: 60px;
+}
+
+@media screen and (min-width: 768){
+    .head-banner{
+        padding-top: 12rem;
+        padding-bottom: 12rem;
+    }
+}    
